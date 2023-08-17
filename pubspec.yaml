@@ -28,6 +28,7 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  fl_chart: ^0.63.0
   flutter_rating_bar: ^4.0.1
   http: ^1.1.0
   flutter:
